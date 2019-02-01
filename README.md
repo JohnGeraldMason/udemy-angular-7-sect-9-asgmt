@@ -1,4 +1,6 @@
-# MyFirstApp
+# Practicing Services (Sect 9 Assignment)
+
+![image](https://user-images.githubusercontent.com/2049888/52131321-d79a6f00-2612-11e9-9aa7-7d7ce3c922a5.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
